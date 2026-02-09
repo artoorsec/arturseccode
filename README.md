@@ -1,70 +1,43 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-</div>
-
-###
+<!-- ──────────────────────────────
+   Minimal Neon Terminal Profile
+   Inspired by: kitty • p10k • claude code
+────────────────────────────── -->
 
 <div align="center">
-  <a href="https://linkedin.com/in/artoor.py" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://instagram.com/artoor.py" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://tiktok.com/@artoor.py" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&color=000000&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://x.com/artoor.py" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&color=000000&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="mailto:arturseccode@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=7AA2F7&center=true&vCenter=true&width=520&lines=Artur+%E2%80%A2+Cybersecurity+%E2%80%A2+Python+%E2%80%A2+Linux;Automation+with+Python+%26+Bash;Offensive+mindset+%7C+Defensive+habits" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash&theme=dark" height="46" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/artoor.py">
+  <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat&logo=linkedin&logoColor=0B1220" />
+</a>
+<a href="https://instagram.com/artoor.py">
+  <img src="https://img.shields.io/badge/Instagram-F7768E?style=flat&logo=instagram&logoColor=0B1220" />
+</a>
+<a href="https://tiktok.com/@artoor.py">
+  <img src="https://img.shields.io/badge/TikTok-9ECE6A?style=flat&logo=tiktok&logoColor=0B1220" />
+</a>
+<a href="https://x.com/artoor.py">
+  <img src="https://img.shields.io/badge/X-2AC3DE?style=flat&logo=x&logoColor=0B1220" />
+</a>
+<a href="mailto:arturseccode@gmail.com">
+  <img src="https://img.shields.io/badge/Email-E0AF68?style=flat&logo=gmail&logoColor=0B1220" />
+</a>
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arturseccode&theme=dracula&hide_border=false" height="150"/>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arturseccode&show_icons=true&theme=radical&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arturseccode&layout=compact&theme=radical&hide_border=false" height="150"/>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturseccode/arturseccode/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturseccode/arturseccode/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arturseccode/arturseccode/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
-## 💫 About Me
-Olá! Me chamo **Artur**, sou estudante de **Cibersegurança** e também estudo **Desenvolvimento Web Full Stack com Python**.  
-Atualmente estou aprofundando meus conhecimentos com plataformas como **TryHackMe** e cursos especializados, sempre buscando entender mais sobre **segurança da informação, redes e desenvolvimento**.
+```txt
+❯ whoami
+Artur — cybersecurity student focused on Linux environments, automation and hands-on labs.
 
-Tenho uma rotina bem focada, conciliando trabalho e estudos, e estou em constante evolução na área de tecnologia.  
-Meu objetivo é construir **soluções seguras, escaláveis e inteligentes**, unindo o olhar do desenvolvedor com a mentalidade do analista de segurança.
-
----
-
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=arturseccode&icon=2&color=0)](https://visitcount.itsvg.in)
+❯ focus --now
+• Security fundamentals + labs (TryHackMe + practice)
+• Automation with Python & Bash
+• Build secure, scalable solutions (dev + security mindset)
