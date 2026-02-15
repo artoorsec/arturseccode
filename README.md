@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- HEADER -->
-<a href="https://github.com/arturseccode">
+<a href="https://github.com/artoorsec">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=%E2%9D%AF+arturseccode;cybersecurity+%7C+linux+%7C+automation"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=%E2%9D%AF+artoorsec;cybersecurity+%7C+bug+bounty+%7C+automation"
     alt="Typing SVG"
   />
 </a>
@@ -40,30 +40,27 @@
 
 <!-- ABOUT -->
 ```bash
-arturseccode@kali:~$ cat about.txt
+artoorsec@kali:~$ cat about.txt
 
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  user      : Artur                                           │
-│  role      : Cybersecurity Student & Linux Enthusiast        │
-│  location  : Brazil                                          │
-│  focus     : Offensive Security, Automation, Lab Hacking     │
-│                                                              │
-│  languages : Python, Bash, SQL                               │
-│  systems   : Kali, Debian, Arch, Ubuntu                      │
-│  tools     : Nmap, Burp Suite, Metasploit, Wireshark         │
-│  labs      : TryHackMe, HackTheBox                            │
-│                                                              │
-│  interests : CTFs, scripting, hardening, threat analysis     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
++--------------------------------------------------------------+
+|                                                              |
+|  user      : Artur                                           |
+|  role      : Cybersecurity Student & Bug Bounty Hunter       |
+|  location  : Brazil                                          |
+|  focus     : Offensive Security, Recon Automation, Hacking   |
+|                                                              |
+|  languages : Python, Bash, SQL                               |
+|  systems   : Kali, Debian, Arch, Ubuntu                      |
+|  tools     : Nmap, Burp Suite, Metasploit, Wireshark         |
+|  labs      : TryHackMe, HackTheBox                           |
+|                                                              |
+|  interests : CTFs, scripting, hardening, threat analysis     |
+|                                                              |
++--------------------------------------------------------------+
 
-arturseccode@kali:~$ neofetch --stats
+artoorsec@kali:~$ ls ~/projects/
+reconwizard/    exercicios-python/
 
-arturseccode@kali:~$ curl -s https://metrics.dev/arturseccode | render
-
-arturseccode@kali:~$ echo "$(whoami)@$(hostname)" | tr '[:lower:]' '[:upper:]'
-ARTURSECCODE@KALI
-
-arturseccode@kali:~$ uptime --pretty
-up since the first sudo ▮
+artoorsec@kali:~$ uptime --pretty
+up since the first sudo _
+```
